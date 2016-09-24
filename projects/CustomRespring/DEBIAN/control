@@ -1,7 +1,7 @@
 Package: com.adamyeti.CustomRespring
 Name: Custom Respring
 Depends:
-Version: 1.0
+Version: 0.1-alpha
 Architecture: iphoneos-arm
 Description: A custom respring logo
 Maintainer: adamyeti <adamyeti@gmail.com>
