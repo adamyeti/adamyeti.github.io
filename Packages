@@ -1,0 +1,14 @@
+Package: com.adamyeti.CustomRespring
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: adamyeti <adamyeti@gmail.com>
+Filename: ./debs/com.adamyeti.customrespring_1.0_iphoneos-arm.deb
+Size: 642
+MD5sum: 1abb0fd379f003550d549b2af2e87a82
+SHA1: ff29cd767ee080a6c0ffbbe152d5bd227932dece
+SHA256: 815981d85d68d3c20db6c1fab4872c90419100f10f3086db38f895d77298858d
+Section: Themes (System)
+Description: A custom respring logo
+Author: adamyeti <adamyeti@gmail.com>
+Name: Custom Respring
+

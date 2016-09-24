@@ -1,2 +1,3 @@
 git add --all  # adds all changes made to repo to be pushed
-git commit -m "description of changes" 
+git commit -m "description of changes"
+git push       # pushes changes
