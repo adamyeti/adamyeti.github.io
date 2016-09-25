@@ -1,12 +1,12 @@
 Package: com.adamyeti.AndroidRespringLogo1
-Version: 0.2-alpha
+Version: 0.3-alpha
 Architecture: iphoneos-arm
 Maintainer: adamyeti <adamyeti@gmail.com>
-Filename: ./debs/com.adamyeti.androidrespringlogo1_0.2-alpha_iphoneos-arm.deb
-Size: 112108
-MD5sum: 17f48b69f5d2ac3934cf56ff3cfa0513
-SHA1: 90d2c3b1572b678629ed40b11a54e658c04c702b
-SHA256: 32e42d61ac175bd815cc6953397e8e57504c28e7e6cb70d68ed7318113710eaa
+Filename: ./debs/com.adamyeti.androidrespringlogo1_0.3-alpha_iphoneos-arm.deb
+Size: 112106
+MD5sum: fae22e342d936aa8074c8a992b903858
+SHA1: 593c6745a9085aa45123afb88ac396135902bf24
+SHA256: d6486ee035e4ecec24f5cae676ea2cd5f17b51a27f20990d168c5e6cc2831c7c
 Section: Themes (System)
 Description: A respring logo featuring the Android text logo
 Author: adamyeti <adamyeti@gmail.com>
