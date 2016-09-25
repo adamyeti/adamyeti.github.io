@@ -1,14 +1,14 @@
-Package: com.adamyeti.CustomRespring
-Version: 1.0
+Package: com.adamyeti.AndroidRespringLogo1
+Version: 0.2-alpha
 Architecture: iphoneos-arm
 Maintainer: adamyeti <adamyeti@gmail.com>
-Filename: ./debs/com.adamyeti.customrespring_1.0_iphoneos-arm.deb
-Size: 642
-MD5sum: 1abb0fd379f003550d549b2af2e87a82
-SHA1: ff29cd767ee080a6c0ffbbe152d5bd227932dece
-SHA256: 815981d85d68d3c20db6c1fab4872c90419100f10f3086db38f895d77298858d
+Filename: ./debs/com.adamyeti.androidrespringlogo1_0.2-alpha_iphoneos-arm.deb
+Size: 72734
+MD5sum: 827e409b275a10d5dd97e4e3bde0e2d3
+SHA1: 42d7fa4d3982547f458c9364ae286b82f6209d9a
+SHA256: e29b5b71234b197229509cd020adfac39168065c637d287d2bd4a1f46ccb9731
 Section: Themes (System)
-Description: A custom respring logo
+Description: A respring logo featuring the Android text logo
 Author: adamyeti <adamyeti@gmail.com>
-Name: Custom Respring
+Name: Android Respring Logo
 
