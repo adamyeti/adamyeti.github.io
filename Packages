@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: adamyeti <theadamyeti@gmail.com>
 Filename: ./debs/com.adamyeti.androidrespringlogos_0.3.4-alpha_iphoneos-arm.deb
 Size: 102452
-MD5sum: b85393a53e872ff1ad5ad96e38a2a73c
-SHA1: 08809932456b3ddaffe3766c1923ac8346e1e37f
-SHA256: 864eb244c3908f2b8aa7f622c79a308da2bb8a12444ceb6b6196a0f4e571be36
+MD5sum: 0e013f1a79ce221c6fe6407a743c097c
+SHA1: 0587572abf2927b0e818fda92753f24e8b81d724
+SHA256: 782babc16fa048c81b9699cbc029350d3373793e5f7c27796d39578a5ed001d2
 Section: Themes (System)
 Description: A respring logo pack featuring 2 respring logos, one featuring the Android text logo and one featuring the Android robot logo.
 Author: adamyeti <theadamyeti@gmail.com>
