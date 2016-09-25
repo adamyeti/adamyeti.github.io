@@ -1,7 +1,7 @@
 Package: com.adamyeti.AndroidRespringLogo1
 Name: Android Respring Logo
 Depends:
-Version: 0.3-alpha
+Version: 0.3.1-alpha
 Architecture: iphoneos-arm
 Description: A respring logo featuring the Android text logo
 Maintainer: adamyeti <adamyeti@gmail.com>
