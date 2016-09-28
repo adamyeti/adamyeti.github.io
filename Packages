@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: adamyeti <theadamyeti@gmail.com>
 Filename: ./debs/com.adamyeti.androidrespringlogos_0.3.4-alpha_iphoneos-arm.deb
 Size: 102452
-MD5sum: 6639504b53b6e73fc2460e640eda2454
-SHA1: 78f0764cbb29b7410d8caaad195b2276582894eb
-SHA256: 025e32d7d4d66fe767bfeb786b996f7ea509962d290dde060c70641a713a7cfe
+MD5sum: e3bd2d88a90e66dcb7756a01dd9c5dcd
+SHA1: ee49a9e6d7391b5e885c405d3dc5e3fbb106b4dc
+SHA256: b5442645f87d5666a4c7e48426eddf5d4120f1c9c0fc4dae7049c0e2b5a78454
 Section: Themes (System)
 Description: A respring logo pack featuring 2 respring logos, one featuring the Android text logo and one featuring the Android robot logo.
 Author: adamyeti <theadamyeti@gmail.com>
@@ -18,11 +18,25 @@ Architecture: iphoneos-arm
 Maintainer: adamyeti <theadamyeti@gmail.com>
 Filename: ./debs/com.adamyeti.f-ingloadrespringlogo_0.1-alpha_iphoneos-arm.deb
 Size: 84200
-MD5sum: 28d938a6bd220f8c0001be99bb3b228d
-SHA1: 094c56eb8318086c73d7b07dc70462e05ba41d76
-SHA256: 882310197d1b0b0d4d324ef49e4505baed36e23ff5b2d09b821c80b6cc3fd6db
+MD5sum: 7d090d6de68917ef5370a27331c60a6d
+SHA1: d41c43a653c09ac8a7f05fbf2418b7a5b89b5996
+SHA256: 585fedd2e925c71afed2f60f5c2aed68e1cb9357fddc0d4f22d5882d30add45f
 Section: Themes (System)
 Description: A respring logo with cursive text that says "Fucking Load".
 Author: adamyeti <theadamyeti@gmail.com>
 Name: F-ing Load Respring Logo
+
+Package: com.adamyeti.HoneyBadger
+Version: 0.1-alpha
+Architecture: iphoneos-arm
+Maintainer: adamyeti <theadamyeti@gmail.com>
+Filename: ./debs/com.adamyeti.honeybadger_0.1-alpha_iphoneos-arm.deb
+Size: 1064940
+MD5sum: 297043bc4e5c8de2d547fd95ea3eebdd
+SHA1: 039080a2a44e380d2af2d01a157ac04dfe815024
+SHA256: f859ab43cc50035b21dfb1f342b82d381c12c5f00c3f244aaeba594d488037e9
+Section: Themes (System)
+Description: A respring logo with a "Honey Badger Don't Care" logo.
+Author: adamyeti <theadamyeti@gmail.com>
+Name: Honey Badger Respring Logo
 
