@@ -4,23 +4,23 @@ Architecture: iphoneos-arm
 Maintainer: adamyeti <theadamyeti@gmail.com>
 Filename: ./debs/com.adamyeti.androidrespringlogos_0.3.4-alpha_iphoneos-arm.deb
 Size: 102452
-MD5sum: e3bd2d88a90e66dcb7756a01dd9c5dcd
-SHA1: ee49a9e6d7391b5e885c405d3dc5e3fbb106b4dc
-SHA256: b5442645f87d5666a4c7e48426eddf5d4120f1c9c0fc4dae7049c0e2b5a78454
+MD5sum: 44926ef59a28a9a0e419fe75ffe7061e
+SHA1: f2207616f4997fc8f8b24fa83e528c3ec8c0d73e
+SHA256: 844230b012e1a20024505ee78153a5df5ef2169bb903225a923803a43c0a629f
 Section: Themes (System)
 Description: A respring logo pack featuring 2 respring logos, one featuring the Android text logo and one featuring the Android robot logo.
 Author: adamyeti <theadamyeti@gmail.com>
 Name: Android Respring Logos
 
 Package: com.adamyeti.F-ingLoadRespringLogo
-Version: 0.1-alpha
+Version: 0.2-alpha
 Architecture: iphoneos-arm
 Maintainer: adamyeti <theadamyeti@gmail.com>
-Filename: ./debs/com.adamyeti.f-ingloadrespringlogo_0.1-alpha_iphoneos-arm.deb
-Size: 84200
-MD5sum: 7d090d6de68917ef5370a27331c60a6d
-SHA1: d41c43a653c09ac8a7f05fbf2418b7a5b89b5996
-SHA256: 585fedd2e925c71afed2f60f5c2aed68e1cb9357fddc0d4f22d5882d30add45f
+Filename: ./debs/com.adamyeti.f-ingloadrespringlogo_0.2-alpha_iphoneos-arm.deb
+Size: 64812
+MD5sum: 7b94d8f1dfd918187bc3cd0352ea6a80
+SHA1: a410d5b72d3dd6666d3a780cd37df2845e4b3bc0
+SHA256: 02ad4fdb956329c906013728c6cb9956fa6972b1aa35aeb02abd4a5c458557ad
 Section: Themes (System)
 Description: A respring logo with cursive text that says "Fucking Load".
 Author: adamyeti <theadamyeti@gmail.com>
@@ -32,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: adamyeti <theadamyeti@gmail.com>
 Filename: ./debs/com.adamyeti.honeybadger_0.1-alpha_iphoneos-arm.deb
 Size: 1064940
-MD5sum: 297043bc4e5c8de2d547fd95ea3eebdd
-SHA1: 039080a2a44e380d2af2d01a157ac04dfe815024
-SHA256: f859ab43cc50035b21dfb1f342b82d381c12c5f00c3f244aaeba594d488037e9
+MD5sum: c47a4b540f2d5523269a5aac31750a0c
+SHA1: 8cf8fe89da6f0e383ebc08f3910d11056fbd286b
+SHA256: ac956e3618cba2eed127428d5493e08d3a48f78643d519c7985523558fa3cae3
 Section: Themes (System)
 Description: A respring logo with a "Honey Badger Don't Care" logo.
 Author: adamyeti <theadamyeti@gmail.com>
